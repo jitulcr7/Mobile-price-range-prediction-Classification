@@ -40,7 +40,7 @@ A decision tree is a non-parametric supervised learning algorithm, which is util
 
 K-Nearest Neighbors Algorithm. The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
-![k-nearest-neighbor-algorithm-for-machine-learning2](https://user-images.githubusercontent.com/120657228/230441931-60d025a4-dd15-4afa-a95d-8be1912e857f.png)
+![k-nearest-neighbor-algorithm-for-machine-learning2](https://user-images.githubusercontent.com/120657228/230443452-dc4a9d91-1a0c-411b-a218-f16473d30639.png)
 
 
 
