@@ -8,7 +8,7 @@
 
 Executable Files:
 
-*mobile_price_range_prediction_Apoorva_KR.ipynb - Includes all functions required for classification operations and generates the model.h5 file after execution.
+*mobile_price_range_prediction_- Includes all functions required for classification operations and generates the model.h5 file after execution.
 
 Output Files:
 
