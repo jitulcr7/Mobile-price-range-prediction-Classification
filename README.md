@@ -45,13 +45,21 @@ K-Nearest Neighbors Algorithm. The k-nearest neighbors algorithm, also known as 
 **Conclusion**
 
 *There are total number of four types of price range in mobile phones and all elements are almost same.
+
 *Half of the mobile phone categories has bluetooth and half dont.
+
 *As the battery power increases the price of the mobile also increases gradually.
+
 *Ram has continuous increase with price range while moving from Low cost to Very high cost
+
 *RAM, battery power, pixels played more significant role in deciding the price range of mobile phone.
+
 *When the cost of the phone is high the price of the mobile phone is also high.
+
 *In ML the most inaccurate model we have seen is KNN which gave an accuracy of 57%
+
 *Both decision tree and random forest gave almost same accuracy of 82% and 88%.
+
 *XG-Boost gave us the most accurate result in terms of accuracy of 98% and this model ca be used for price range analysis.
 
 
